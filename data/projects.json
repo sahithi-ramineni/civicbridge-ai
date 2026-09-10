@@ -1,0 +1,304 @@
+[
+  {
+    "id": "PRJ-JH-2026-001",
+    "challengeId": "CH-JH-2026-000001",
+    "challengeTitle": "Severe shortage of safe drinking water for 450 students in Government High School, Ormanjhi",
+    "category": "Water",
+    "district": "Ranchi",
+    "universityId": "UNIV-JH-001",
+    "universityName": "BIT Mesra",
+    "status": "Prototype Development",
+    "proposal": {
+      "id": "PROP-001",
+      "challengeId": "CH-JH-2026-000001",
+      "universityId": "UNIV-JH-001",
+      "proposedSolution": "Solar-Powered Nanofiltration & Activated Alumina Community Drinking Water Kiosk with Real-time IoT Turbidity and Fluoride Telemetry",
+      "problemAnalysis": "Groundwater at the school shows fluoride concentration of 3.4 mg/L (safe limit < 1.0 mg/L) and high iron turbidity (8.2 NTU). Conventional boiling or chlorine is ineffective against fluoride. A decentralized modular nanofiltration system powered by a 1.2 kW solar array provides 2,000 liters/day of WHO-compliant drinking water.",
+      "technologyRequired": [
+        "Activated Alumina Fluoride Adsorption Columns",
+        "Solar Dual-Stage Nanofiltration (NF270)",
+        "IoT ESP32 Water Telemetry Node with GSM modem",
+        "Automatic Backwash Float Valve System"
+      ],
+      "requiredResources": [
+        "Adsorption filter media (150 kg)",
+        "Solar PV panels (4 x 330W)",
+        "Stainless Steel food-grade storage tank (1,000 L)",
+        "Microcontroller telemetry board"
+      ],
+      "estimatedCost": 220000,
+      "expectedTimelineWeeks": 6,
+      "expectedImpact": "Ensures 100% safe fluoride-free water for 450 students, 18 teachers, and 600 neighboring villagers; eliminates waterborne fluorosis absenteeism.",
+      "prototypeRequirement": "Weather-proof solar skid mounting, pump housing enclosure, and certified membrane pressure vessel fabrication.",
+      "facultyMentorId": "FAC-001",
+      "facultyMentorName": "Prof. (Dr.) A. K. Sharma",
+      "studentTeamIds": ["STU-001", "STU-003", "STU-004"],
+      "studentTeamNames": ["Aarav Choudhary (Team Lead)", "Rohit Murmu (Hardware/IoT)", "Sneha Kumari (Chemical Analysis)"],
+      "technicalRequirements": "Flow rate 250 LPH, recovery rate > 75%, solar autonomy 2 days battery backup.",
+      "submittedAt": "2026-08-15T10:30:00Z",
+      "status": "In Development"
+    },
+    "industrySupport": {
+      "id": "IND-SUPP-001",
+      "projectId": "PRJ-JH-2026-001",
+      "industryId": "IND-JH-001",
+      "industryName": "Tata Steel Rural Development Society (TSRDS)",
+      "supportTypes": ["Prototype Development", "Manufacturing", "Testing", "Funding"],
+      "resourcesProvided": "Fabricated SS304 skid enclosure, solar battery rack, sponsored raw membrane vessels, and certified lab water assay.",
+      "committedFundingInr": 250000,
+      "technicalMentorAssigned": "Er. Vikram Sengupta (TSRDS)",
+      "prototypeStatus": "Assembly",
+      "testingStatus": "Lab Validation",
+      "governmentCompensationInr": 200000,
+      "compensationStatus": "Approved",
+      "updatedAt": "2026-09-02T14:20:00Z"
+    },
+    "createdAt": "2026-08-12T09:15:00Z",
+    "updatedAt": "2026-09-08T11:00:00Z",
+    "milestones": [
+      {
+        "id": "M1",
+        "title": "Groundwater Sample Testing & Chemical Speciation",
+        "description": "Baseline fluoride, iron, TDS, and coliform microbiological analysis completed at BIT Mesra lab.",
+        "dueDate": "2026-08-18",
+        "completed": true,
+        "completedAt": "2026-08-17"
+      },
+      {
+        "id": "M2",
+        "title": "CAD Design & Skid Prototype Engineering",
+        "description": "CAD design approved by TSRDS engineering team for modular transport.",
+        "dueDate": "2026-08-25",
+        "completed": true,
+        "completedAt": "2026-08-24"
+      },
+      {
+        "id": "M3",
+        "title": "Membrane Skid Fabrication & IoT Integration",
+        "description": "Assembly of filtration columns, solar inverter, and ESP32 telemetry transmitter at TSRDS workshop.",
+        "dueDate": "2026-09-12",
+        "completed": false
+      },
+      {
+        "id": "M4",
+        "title": "Field Pilot Installation & Mukhiya Handover",
+        "description": "On-site plumbing, tank connection, and training of school caretaker in filter backwashing.",
+        "dueDate": "2026-09-26",
+        "completed": false
+      }
+    ],
+    "impactReport": {
+      "citizensBenefited": 1200,
+      "villagesBenefited": 2,
+      "estimatedCost": 220000,
+      "actualCost": 215000,
+      "beforeDescription": "School children drank turbid tap water with 3.4 mg/L fluoride, causing dental mottled enamel and frequent stomach infections.",
+      "afterDescription": "Solar-automated clean water dispenser operational with 0.4 mg/L safe fluoride and 0 NTU turbidity.",
+      "socialImpact": "Student attendance increased by 22%; zero waterborne illness incidents reported.",
+      "environmentalImpact": "Zero plastic waste generated; solar powered with 0 kg CO2 grid emissions.",
+      "waterSavedLpd": 2500,
+      "impactScore": 92
+    }
+  },
+  {
+    "id": "PRJ-JH-2026-002",
+    "challengeId": "CH-JH-2026-000012",
+    "challengeTitle": "Damaged culvert causing flash flooding and cutting off access to Primary Health Centre",
+    "category": "Roads & Infrastructure",
+    "district": "East Singhbhum",
+    "universityId": "UNIV-JH-002",
+    "universityName": "NIT Jamshedpur",
+    "status": "Testing",
+    "proposal": {
+      "id": "PROP-002",
+      "challengeId": "CH-JH-2026-000012",
+      "universityId": "UNIV-JH-002",
+      "proposedSolution": "Precast Blast Furnace Slag Geopolymer Modular Box Culvert with Scour-Resilient Wing Walls",
+      "problemAnalysis": "Old brick masonry culvert collapsed under peak monsoon runoff of 14 m³/s. Soil erosion undercut the approach road. Replacing with precast geopolymer blocks utilizing 70% industrial blast furnace slag resists acidic rainwater and cures in 48 hours.",
+      "technologyRequired": [
+        "Alkali-Activated Slag Geopolymer Concrete",
+        "Modular Precast Interlocking Tongue-and-Groove Joints",
+        "Geotextile Non-Woven Soil Reinforcement Matting"
+      ],
+      "requiredResources": [
+        "Granulated Blast Furnace Slag (12 tons)",
+        "Precast steel shuttering moulds",
+        "Reinforced high-tensile steel rebars (2.5 tons)"
+      ],
+      "estimatedCost": 380000,
+      "expectedTimelineWeeks": 5,
+      "expectedImpact": "Restores 24/7 all-weather ambulance and tractor connectivity to 4 villages (population 3,800) and the Ghatshila Sub-divisional hospital.",
+      "prototypeRequirement": "Full-scale precast modular box units cast at JRIC yard and transported by flatbed trailer.",
+      "facultyMentorId": "FAC-002",
+      "facultyMentorName": "Dr. Sunita Murmu",
+      "studentTeamIds": ["STU-005", "STU-006", "STU-007"],
+      "studentTeamNames": ["Ankit Kumar Verma (Lead)", "Divya Tirkey (Fabrication)", "Karan Mahato (Slag Metallurgy)"],
+      "technicalRequirements": "IRC:SP:13 hydraulic design compliance, Class 70R live vehicle loading capacity.",
+      "submittedAt": "2026-07-20T11:00:00Z",
+      "status": "In Development"
+    },
+    "industrySupport": {
+      "id": "IND-SUPP-002",
+      "projectId": "PRJ-JH-2026-002",
+      "industryId": "IND-JH-005",
+      "industryName": "Jharkhand Rural Infrastructure Corp (JRIC)",
+      "supportTypes": ["Infrastructure", "Manufacturing", "Testing", "Deployment Support", "Funding"],
+      "resourcesProvided": "Provided precast concrete casting yard space, mobile 20-ton crane for placement, and geo-membrane fabric roll.",
+      "committedFundingInr": 350000,
+      "technicalMentorAssigned": "Er. D. K. Sinha (JRIC)",
+      "prototypeStatus": "Testing",
+      "testingStatus": "Field Trial",
+      "governmentCompensationInr": 300000,
+      "compensationStatus": "Verified",
+      "updatedAt": "2026-08-30T16:00:00Z"
+    },
+    "createdAt": "2026-07-15T14:00:00Z",
+    "updatedAt": "2026-09-04T10:00:00Z",
+    "milestones": [
+      {
+        "id": "M21",
+        "title": "Hydraulic Catchment Modeling & Soil Bearing Test",
+        "description": "Peak discharge recalculated for 50-year storm event.",
+        "dueDate": "2026-07-28",
+        "completed": true,
+        "completedAt": "2026-07-27"
+      },
+      {
+        "id": "M22",
+        "title": "Casting of Precast Slag-Concrete Modular Blocks",
+        "description": "Six box culvert segments successfully cast at JRIC casting yard.",
+        "dueDate": "2026-08-10",
+        "completed": true,
+        "completedAt": "2026-08-09"
+      },
+      {
+        "id": "M23",
+        "title": "Site Excavation & Crane Assembly",
+        "description": "Modules positioned on compacted gravel bed; wing walls secured.",
+        "dueDate": "2026-08-25",
+        "completed": true,
+        "completedAt": "2026-08-26"
+      },
+      {
+        "id": "M24",
+        "title": "Load Testing & Commissioning",
+        "description": "Tested with 25-ton laden truck; deflection measured < 1.2mm.",
+        "dueDate": "2026-09-10",
+        "completed": true,
+        "completedAt": "2026-09-09"
+      }
+    ],
+    "impactReport": {
+      "citizensBenefited": 3800,
+      "villagesBenefited": 4,
+      "estimatedCost": 380000,
+      "actualCost": 365000,
+      "beforeDescription": "Collapsing culvert caused 3-foot waterlogging every monsoon, forcing a 14 km detour for ambulances.",
+      "afterDescription": "Heavy-duty eco-slag culvert in place with smooth paved approach ramp and safety guard rails.",
+      "socialImpact": "Ambulance response time reduced from 55 minutes to 12 minutes.",
+      "environmentalImpact": "Utilized 12 tons of industrial blast furnace slag diverted from landfills.",
+      "impactScore": 94
+    }
+  },
+  {
+    "id": "PRJ-JH-2026-003",
+    "challengeId": "CH-JH-2026-000018",
+    "challengeTitle": "Overflowing organic and plastic garbage dump near Topchanchi weekly market polluting water body",
+    "category": "Waste Management",
+    "district": "Dhanbad",
+    "universityId": "UNIV-JH-003",
+    "universityName": "IIT (ISM) Dhanbad",
+    "status": "Ready for Deployment",
+    "proposal": {
+      "id": "PROP-003",
+      "challengeId": "CH-JH-2026-000018",
+      "universityId": "UNIV-JH-003",
+      "proposedSolution": "Decentralized Solar-Assisted Rapid Bio-Composting Drum and Waste Plastic Compression Paver Machine",
+      "problemAnalysis": "Weekly vegetable haat produces 1.8 tons of perishable wet waste and 300 kg of thin single-use plastic. Open burning generates toxic dioxins. A continuous rotational aerobic composting drum decomposes wet waste in 12 days into nutrient-rich organic manure for local farmers, while plastic is shredded and blended with fly-ash into durable walkway pavers.",
+      "technologyRequired": [
+        "Rotary Aerobic Drum Bio-Digester with solar heating jacket",
+        "Dual-Shaft Shredder for multi-layer plastic pouches",
+        "Hydraulic Compression Paver Press (15 ton)"
+      ],
+      "requiredResources": [
+        "Mild Steel fabricated drum (2,500 L)",
+        "High-torque 3HP geared motor",
+        "Bio-culture microbial accelerator inoculant (25 kg)"
+      ],
+      "estimatedCost": 290000,
+      "expectedTimelineWeeks": 6,
+      "expectedImpact": "Eliminates 2.1 tons of weekly market waste, produces 600 kg high-grade organic fertilizer weekly, and prevents leachate discharge into Topchanchi lake.",
+      "prototypeRequirement": "Steel drum casing with safety interlocks and trailer-hitch mobility.",
+      "facultyMentorId": "FAC-003",
+      "facultyMentorName": "Prof. Rajiv Shekhar",
+      "studentTeamIds": ["STU-008", "STU-009", "STU-010"],
+      "studentTeamNames": ["Neha Sinha (Lead/Biotech)", "Shubham Paul (IoT)", "Pooja Das (Mechanical)"],
+      "technicalRequirements": "Processing capacity 400 kg/day, internal thermophilic temperature 55-65°C, solar PV assist.",
+      "submittedAt": "2026-07-10T15:00:00Z",
+      "status": "In Development"
+    },
+    "industrySupport": {
+      "id": "IND-SUPP-003",
+      "projectId": "PRJ-JH-2026-003",
+      "industryId": "IND-JH-003",
+      "industryName": "EcoTech Sustainable Waste Ltd",
+      "supportTypes": ["Prototype Development", "Manufacturing", "Testing", "Deployment Support"],
+      "resourcesProvided": "Provided precision hydraulic press, industrial shredder blades, and sponsored local SHG training.",
+      "committedFundingInr": 280000,
+      "technicalMentorAssigned": "Mr. Rajiv Nambiar (EcoTech)",
+      "prototypeStatus": "Ready for Field Pilot",
+      "testingStatus": "Certified Safe",
+      "governmentCompensationInr": 250000,
+      "compensationStatus": "Approved",
+      "updatedAt": "2026-09-01T12:00:00Z"
+    },
+    "createdAt": "2026-07-05T10:00:00Z",
+    "updatedAt": "2026-09-07T09:30:00Z",
+    "milestones": [
+      {
+        "id": "M31",
+        "title": "Microbial Inoculant Formulation & Haat Waste Characterization",
+        "description": "Identified high organic fraction suitable for thermophilic decomposition.",
+        "dueDate": "2026-07-16",
+        "completed": true,
+        "completedAt": "2026-07-15"
+      },
+      {
+        "id": "M32",
+        "title": "Rotary Drum Composter Fabrication",
+        "description": "Drum fabricated with insulated solar heat-trapping acrylic hood.",
+        "dueDate": "2026-08-05",
+        "completed": true,
+        "completedAt": "2026-08-03"
+      },
+      {
+        "id": "M33",
+        "title": "Plastic Shredder & Paver Press Assembly",
+        "description": "Integrated at EcoTech workshop; produced initial batch of 500 pavers.",
+        "dueDate": "2026-08-22",
+        "completed": true,
+        "completedAt": "2026-08-20"
+      },
+      {
+        "id": "M34",
+        "title": "Gram Panchayat Operator Training",
+        "description": "Trained 6 members of Mahila Self Help Group on composting operation and manure bagging.",
+        "dueDate": "2026-09-05",
+        "completed": true,
+        "completedAt": "2026-09-04"
+      }
+    ],
+    "impactReport": {
+      "citizensBenefited": 5500,
+      "villagesBenefited": 3,
+      "estimatedCost": 290000,
+      "actualCost": 282000,
+      "beforeDescription": "Market ground had an overflowing 40-foot garbage heap attracting stray cattle and washing filth into the water canal.",
+      "afterDescription": "Zero-waste market established; daily compost processing and paved pedestrian plaza using recycled plastic pavers.",
+      "socialImpact": "SHG generates ₹18,000 monthly income by selling certified vermicompost to nearby guava orchards.",
+      "environmentalImpact": "Diverts 1.8 tons of waste weekly; saved Topchanchi tributary canal from eutrophication.",
+      "wasteReducedKgDay": 320,
+      "impactScore": 96
+    }
+  }
+]

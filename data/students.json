@@ -1,0 +1,152 @@
+[
+  {
+    "id": "STU-001",
+    "name": "Aarav Choudhary",
+    "universityId": "UNIV-JH-001",
+    "universityName": "BIT Mesra",
+    "department": "Civil & Environmental Engineering",
+    "year": "Final Year B.Tech",
+    "role": "Team Lead",
+    "skills": ["Water Quality Modeling", "AutoCAD", "Project Management", "EPANET Hydraulics"]
+  },
+  {
+    "id": "STU-002",
+    "name": "Priya Ranjan",
+    "universityId": "UNIV-JH-001",
+    "universityName": "BIT Mesra",
+    "department": "Computer Science & Engineering",
+    "year": "3rd Year B.Tech",
+    "role": "AI/ML Developer",
+    "skills": ["TensorFlow Lite", "Edge Computing", "Python", "Computer Vision"]
+  },
+  {
+    "id": "STU-003",
+    "name": "Rohit Murmu",
+    "universityId": "UNIV-JH-001",
+    "universityName": "BIT Mesra",
+    "department": "Electronics & Communication",
+    "year": "Final Year B.Tech",
+    "role": "Hardware Engineer",
+    "skills": ["ESP32 IoT", "PCB Design", "Ultrasonic Sensors", "LoRaWAN Networks"]
+  },
+  {
+    "id": "STU-004",
+    "name": "Sneha Kumari",
+    "universityId": "UNIV-JH-001",
+    "universityName": "BIT Mesra",
+    "department": "Chemical Engineering",
+    "year": "3rd Year B.Tech",
+    "role": "Researcher",
+    "skills": ["Nanomaterial Adsorbents", "Spectrophotometry", "Water Quality Analysis"]
+  },
+  {
+    "id": "STU-005",
+    "name": "Ankit Kumar Verma",
+    "universityId": "UNIV-JH-002",
+    "universityName": "NIT Jamshedpur",
+    "department": "Civil Engineering",
+    "year": "Final Year B.Tech",
+    "role": "Team Lead",
+    "skills": ["STAAD Pro", "Culvert Structural Analysis", "Geotechnical Soil Testing"]
+  },
+  {
+    "id": "STU-006",
+    "name": "Divya Tirkey",
+    "universityId": "UNIV-JH-002",
+    "universityName": "NIT Jamshedpur",
+    "department": "Mechanical Engineering",
+    "year": "3rd Year B.Tech",
+    "role": "Hardware Engineer",
+    "skills": ["SolidWorks 3D Modeling", "Hydraulic Pumps", "Rapid Prototyping", "Welding"]
+  },
+  {
+    "id": "STU-007",
+    "name": "Karan Mahato",
+    "universityId": "UNIV-JH-002",
+    "universityName": "NIT Jamshedpur",
+    "department": "Metallurgical Engineering",
+    "year": "Final Year B.Tech",
+    "role": "Researcher",
+    "skills": ["Slag Eco-Aggregate Testing", "Corrosion Prevention", "Material Tensile Stress"]
+  },
+  {
+    "id": "STU-008",
+    "name": "Neha Sinha",
+    "universityId": "UNIV-JH-003",
+    "universityName": "IIT (ISM) Dhanbad",
+    "department": "Environmental Science & Engineering",
+    "year": "M.Tech 2nd Year",
+    "role": "Researcher",
+    "skills": ["Heavy Metal Adsorption", "Arsenic Field Test Kits", "Gas Chromatography"]
+  },
+  {
+    "id": "STU-009",
+    "name": "Shubham Paul",
+    "universityId": "UNIV-JH-003",
+    "universityName": "IIT (ISM) Dhanbad",
+    "department": "Computer Science & Engineering",
+    "year": "3rd Year B.Tech",
+    "role": "Backend Developer",
+    "skills": ["Node.js / Express", "PostgreSQL", "REST APIs", "Cloud Deployments"]
+  },
+  {
+    "id": "STU-010",
+    "name": "Pooja Das",
+    "universityId": "UNIV-JH-003",
+    "universityName": "IIT (ISM) Dhanbad",
+    "department": "Mining Machinery",
+    "year": "Final Year B.Tech",
+    "role": "Hardware Engineer",
+    "skills": ["Rotary Pyrolysis Systems", "Automation Controllers", "PLC Programming"]
+  },
+  {
+    "id": "STU-011",
+    "name": "Vikash Oraon",
+    "universityId": "UNIV-JH-004",
+    "universityName": "Birsa Agricultural University",
+    "department": "Agricultural Engineering",
+    "year": "Final Year B.Tech",
+    "role": "Team Lead",
+    "skills": ["Watershed Catchment Sizing", "Farm Pond Permeability", "GIS Hydrology"]
+  },
+  {
+    "id": "STU-012",
+    "name": "Deepika Sahu",
+    "universityId": "UNIV-JH-005",
+    "universityName": "Central University of Jharkhand",
+    "department": "Energy Engineering",
+    "year": "M.Tech Final Year",
+    "role": "Hardware Engineer",
+    "skills": ["Solar Photovoltaic Microgrid", "Battery Management Systems", "Inverter Tuning"]
+  },
+  {
+    "id": "STU-013",
+    "name": "Rahul Karmakar",
+    "universityId": "UNIV-JH-001",
+    "universityName": "BIT Mesra",
+    "department": "Computer Science & Engineering",
+    "year": "4th Year B.Tech",
+    "role": "Frontend Developer",
+    "skills": ["React", "TypeScript", "Tailwind CSS", "GIS Map Visualizations"]
+  },
+  {
+    "id": "STU-014",
+    "name": "Tanya Bano",
+    "universityId": "UNIV-JH-002",
+    "universityName": "NIT Jamshedpur",
+    "department": "Civil Engineering",
+    "year": "3rd Year B.Tech",
+    "role": "Testing/QA",
+    "skills": ["Field Concrete Cube Compaction", "Water Turbidity Analysis", "Compliance QA"]
+  },
+  {
+    "id": "STU-015",
+    "name": "Abhishek Soren",
+    "universityId": "UNIV-JH-001",
+    "universityName": "BIT Mesra",
+    "department": "Architecture & Planning",
+    "year": "Final Year B.Arch",
+    "role": "UI/UX Designer",
+    "skills": ["Figma", "User Journey Research", "Accessibility Standards", "Design Systems"]
+  }
+]

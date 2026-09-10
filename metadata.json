@@ -1,0 +1,7 @@
+{
+  "name": "CivicSolve — AI-Powered Civic Problem Solving & Collaboration Platform",
+  "description": "Smart India Hackathon 2026 digital platform crowdsourcing civic challenges and connecting citizens, Panchayats, universities, industries, and government.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,255 @@
+[
+  {
+    "id": "UNIV-JH-001",
+    "name": "Birla Institute of Technology, Mesra",
+    "shortName": "BIT Mesra",
+    "state": "Jharkhand",
+    "district": "Ranchi",
+    "departments": [
+      "Civil & Environmental Engineering",
+      "Chemical Engineering",
+      "Computer Science & Engineering",
+      "Electronics & Communication",
+      "Mechanical Engineering",
+      "Bio-Engineering"
+    ],
+    "facultyExpertise": [
+      "Water Purification & Nanomembranes",
+      "IoT Remote Sensor Networks",
+      "Rural Road Soil Stabilization",
+      "Biomass Conversion",
+      "Embedded Systems"
+    ],
+    "researchAreas": [
+      "Low-cost drinking water filtration",
+      "Decentralized wastewater treatment",
+      "AI for civic monitoring",
+      "Smart micro-grid systems"
+    ],
+    "laboratories": [
+      "Water Quality Testing & Nanotech Lab",
+      "Environmental Geotechnics Lab",
+      "Advanced IoT & Embedded Systems Lab",
+      "Robotics & Automation Center"
+    ],
+    "innovationFacilities": [
+      "BIT Innovation & Incubation Centre",
+      "Atal Tinkering Community Hub",
+      "Center for Rural Appropriate Technology"
+    ],
+    "incubationFacilities": [
+      "BIT-TBI (Technology Business Incubator)",
+      "MSME Business Incubator"
+    ],
+    "studentTeamsCount": 14,
+    "activeProjectsCount": 8,
+    "completedProjectsCount": 23,
+    "contactEmail": "dean.rnd@bitmesra.ac.in",
+    "contactPerson": "Prof. (Dr.) A. K. Sharma (Dean, Research & Rural Tech)"
+  },
+  {
+    "id": "UNIV-JH-002",
+    "name": "National Institute of Technology, Jamshedpur",
+    "shortName": "NIT Jamshedpur",
+    "state": "Jharkhand",
+    "district": "East Singhbhum",
+    "departments": [
+      "Civil Engineering",
+      "Metallurgical & Materials Engineering",
+      "Electrical & Electronics Engineering",
+      "Computer Applications",
+      "Mechanical Engineering"
+    ],
+    "facultyExpertise": [
+      "Bridge & Culvert Structural Design",
+      "Corrosion-resistant Rural Structures",
+      "Solar Powered Pumping Systems",
+      "Industrial Waste Recycling"
+    ],
+    "researchAreas": [
+      "Disaster resilient rural infrastructure",
+      "Slag & fly-ash brick eco-pavements",
+      "Smart municipal solid waste sorting",
+      "Groundwater recharge aquifers"
+    ],
+    "laboratories": [
+      "Heavy Structural Testing Laboratory",
+      "Materials Characterization Lab",
+      "Renewable Energy & Pumping Testbed",
+      "Environmental Pollution Control Lab"
+    ],
+    "innovationFacilities": [
+      "NITJ Design & Fabrication Lab (Makerspace)",
+      "Rural Technology Action Group (RuTAG) Center"
+    ],
+    "incubationFacilities": [
+      "NIT Jamshedpur Incubation Center (STEP)"
+    ],
+    "studentTeamsCount": 18,
+    "activeProjectsCount": 11,
+    "completedProjectsCount": 31,
+    "contactEmail": "consultancy@nitjsr.ac.in",
+    "contactPerson": "Dr. Sunita Murmu (Head, Civil & Infra Innovation)"
+  },
+  {
+    "id": "UNIV-JH-003",
+    "name": "Indian Institute of Technology (ISM), Dhanbad",
+    "shortName": "IIT (ISM) Dhanbad",
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "departments": [
+      "Environmental Science & Engineering",
+      "Mining & Geotechnical Engineering",
+      "Chemical Engineering",
+      "Applied Geology",
+      "Computer Science & Engineering"
+    ],
+    "facultyExpertise": [
+      "Heavy Metal Contamination Mitigation",
+      "Mine Runoff Neutralization",
+      "Advanced Groundwater Hydrology",
+      "Thermal Solid Waste Gasification"
+    ],
+    "researchAreas": [
+      "Arsenic and Fluoride removal adsorbents",
+      "Geotextiles for landslide & slope stability",
+      "Drone LiDAR rural mapping",
+      "Zero Liquid Discharge rural models"
+    ],
+    "laboratories": [
+      "Centre of Excellence in Water Resources",
+      "Advanced Geoinformatics & Drone Lab",
+      "Analytical Mass Spectrometry Unit"
+    ],
+    "innovationFacilities": [
+      "IIT (ISM) Technology Innovation Hub (TexMin)",
+      "Atal Community Innovation Centre (ACIC)"
+    ],
+    "incubationFacilities": [
+      "Centre for Innovation, Incubation and Entrepreneurship (CIIE)"
+    ],
+    "studentTeamsCount": 16,
+    "activeProjectsCount": 9,
+    "completedProjectsCount": 27,
+    "contactEmail": "rnd@iitism.ac.in",
+    "contactPerson": "Prof. Rajiv Shekhar (Directorate of Civic R&D)"
+  },
+  {
+    "id": "UNIV-JH-004",
+    "name": "Birsa Agricultural University",
+    "shortName": "BAU Ranchi",
+    "state": "Jharkhand",
+    "district": "Ranchi",
+    "departments": [
+      "Agricultural Engineering",
+      "Soil Science & Water Management",
+      "Forestry & Natural Resource Management",
+      "Agronomy"
+    ],
+    "facultyExpertise": [
+      "Check Dam Hydrological Sizing",
+      "Agricultural Solid Waste Composting",
+      "Rainwater Harvesting Catchments",
+      "Watershed Bio-engineering"
+    ],
+    "researchAreas": [
+      "Affordable farm pond lining",
+      "Microbial bio-digestion of rural garbage",
+      "Subsurface drip irrigation with recycled water"
+    ],
+    "laboratories": [
+      "Soil & Water Testing Mobile Fleet",
+      "Bio-fertilizer & Composting Testing Unit",
+      "Watershed Hydrology Simulator"
+    ],
+    "innovationFacilities": [
+      "Krishi Vigyan Rural Innovation Hub",
+      "Farmers Technology Demonstration Complex"
+    ],
+    "incubationFacilities": [
+      "Agri-Business Incubation Centre (R-ABI BAU)"
+    ],
+    "studentTeamsCount": 10,
+    "activeProjectsCount": 6,
+    "completedProjectsCount": 19,
+    "contactEmail": "research@bauranchi.org",
+    "contactPerson": "Dr. P. K. Singh (Director, Research & Extension)"
+  },
+  {
+    "id": "UNIV-JH-005",
+    "name": "Central University of Jharkhand",
+    "shortName": "CUJ Ranchi",
+    "state": "Jharkhand",
+    "district": "Ranchi",
+    "departments": [
+      "Energy Engineering",
+      "Water Engineering and Management",
+      "Environmental Sciences",
+      "Nanotechnology",
+      "Tribal Studies & Rural Management"
+    ],
+    "facultyExpertise": [
+      "Community Solar Microgrids",
+      "Gravity-Fed Water Treatment Units",
+      "Participatory Rural Appraisal (PRA)",
+      "Plastic Pyrolysis for Rural Fuel"
+    ],
+    "researchAreas": [
+      "Village-scale zero-energy water purifiers",
+      "Low-maintenance decentralized sanitation",
+      "Recycled plastic paver blocks"
+    ],
+    "laboratories": [
+      "Solar PV Testing & Simulation Lab",
+      "Water Quality Instrumentation Lab",
+      "Clean Energy Pilot Facility"
+    ],
+    "innovationFacilities": [
+      "CUJ Centre for Innovation and Rural Enterprise"
+    ],
+    "incubationFacilities": [
+      "CUJ Startup Cell & Incubation Forum"
+    ],
+    "studentTeamsCount": 8,
+    "activeProjectsCount": 5,
+    "completedProjectsCount": 14,
+    "contactEmail": "dean.acad@cuj.ac.in",
+    "contactPerson": "Prof. Manoj Kumar (Dean, School of Engineering)"
+  },
+  {
+    "id": "UNIV-JH-006",
+    "name": "Kolhan University",
+    "shortName": "Kolhan Univ",
+    "state": "Jharkhand",
+    "district": "West Singhbhum",
+    "departments": [
+      "Information Technology",
+      "Chemistry",
+      "Botany & Environmental Studies",
+      "Physics & Electronics"
+    ],
+    "facultyExpertise": [
+      "Water Contamination Field Kits",
+      "Local Material Adsorbents",
+      "Mobile Reporting GIS Tools"
+    ],
+    "researchAreas": [
+      "Indigenous bio-adsorbents for iron removal",
+      "Community sanitary waste management"
+    ],
+    "laboratories": [
+      "Basic Science & Environmental Instrumentation Lab"
+    ],
+    "innovationFacilities": [
+      "District Science & Innovation Cell"
+    ],
+    "incubationFacilities": [
+      "Kolhan Student Innovation Cell"
+    ],
+    "studentTeamsCount": 6,
+    "activeProjectsCount": 3,
+    "completedProjectsCount": 8,
+    "contactEmail": "vc@kolhanuniversity.ac.in",
+    "contactPerson": "Dr. Anupama Sahay (Nodal Officer, Innovation)"
+  }
+]

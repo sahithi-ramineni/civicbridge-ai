@@ -1,0 +1,98 @@
+[
+  {
+    "id": "FAC-001",
+    "name": "Prof. (Dr.) A. K. Sharma",
+    "designation": "Professor & Head, Civil & Environmental Engineering",
+    "universityId": "UNIV-JH-001",
+    "universityName": "BIT Mesra",
+    "department": "Civil & Environmental Engineering",
+    "specialization": ["Water Treatment", "Nanofiltration", "Groundwater Fluoride Removal", "Rural Sanitation"],
+    "projectsMentored": 12,
+    "email": "aksharma@bitmesra.ac.in",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "FAC-002",
+    "name": "Dr. Sunita Murmu",
+    "designation": "Associate Professor, Structural Engineering",
+    "universityId": "UNIV-JH-002",
+    "universityName": "NIT Jamshedpur",
+    "department": "Civil Engineering",
+    "specialization": ["Culvert & Bridge Structures", "Disaster Resilient Roads", "Slag Aggregate Geopolymers"],
+    "projectsMentored": 15,
+    "email": "smurmu.ce@nitjsr.ac.in",
+    "avatarUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=120&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "FAC-003",
+    "name": "Prof. Rajiv Shekhar",
+    "designation": "Senior Professor, Environmental Science & Engg",
+    "universityId": "UNIV-JH-003",
+    "universityName": "IIT (ISM) Dhanbad",
+    "department": "Environmental Science & Engineering",
+    "specialization": ["Heavy Metal Adsorption", "Acid Mine Drainage", "Waste-to-Energy", "Solid Waste Pyrolysis"],
+    "projectsMentored": 18,
+    "email": "rajiv@iitism.ac.in",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "FAC-004",
+    "name": "Dr. P. K. Singh",
+    "designation": "Chief Scientist & Professor, Soil & Water Conservation",
+    "universityId": "UNIV-JH-004",
+    "universityName": "Birsa Agricultural University",
+    "department": "Agricultural Engineering",
+    "specialization": ["Check Dams", "Watershed Hydrology", "Agricultural Biomass Composting"],
+    "projectsMentored": 9,
+    "email": "pksingh@bauranchi.org",
+    "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=120&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "FAC-005",
+    "name": "Prof. Manoj Kumar",
+    "designation": "Dean & Professor, Water Engineering & Management",
+    "universityId": "UNIV-JH-005",
+    "universityName": "Central University of Jharkhand",
+    "department": "Water Engineering and Management",
+    "specialization": ["Gravity Piped Water Networks", "Decentralized Sanitation", "Community Rainwater Systems"],
+    "projectsMentored": 8,
+    "email": "manoj.kumar@cuj.ac.in",
+    "avatarUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=120&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "FAC-006",
+    "name": "Dr. Ritu Verma",
+    "designation": "Associate Professor, Computer Science & AI",
+    "universityId": "UNIV-JH-001",
+    "universityName": "BIT Mesra",
+    "department": "Computer Science & Engineering",
+    "specialization": ["IoT Sensing Telemetry", "Computer Vision for Potholes", "Edge AI Microcontrollers"],
+    "projectsMentored": 11,
+    "email": "rverma@bitmesra.ac.in",
+    "avatarUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=120&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "FAC-007",
+    "name": "Dr. Bikash Chandra Soren",
+    "designation": "Assistant Professor, Mechanical & Renewable Systems",
+    "universityId": "UNIV-JH-002",
+    "universityName": "NIT Jamshedpur",
+    "department": "Mechanical Engineering",
+    "specialization": ["Solar Water Desalination", "Bio-digesters", "Waste Plastic Extrusion Machinery"],
+    "projectsMentored": 7,
+    "email": "bcsoren@nitjsr.ac.in",
+    "avatarUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=120&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "FAC-008",
+    "name": "Dr. Sneh Lata",
+    "designation": "Associate Professor, Environmental Biotechnology",
+    "universityId": "UNIV-JH-003",
+    "universityName": "IIT (ISM) Dhanbad",
+    "department": "Chemical Engineering",
+    "specialization": ["Bacterial Water Disinfection", "Bio-filtration", "Organic Solid Waste Speed Composting"],
+    "projectsMentored": 10,
+    "email": "snehlata@iitism.ac.in",
+    "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=120&auto=format&fit=crop&q=60"
+  }
+]

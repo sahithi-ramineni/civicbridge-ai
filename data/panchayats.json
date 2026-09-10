@@ -1,0 +1,408 @@
+[
+  {
+    "id": "PAN-JH-001",
+    "panchayatName": "Ormanjhi Gram Panchayat",
+    "village": "Ormanjhi",
+    "mandal": "Ormanjhi",
+    "district": "Ranchi",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Solar Street Lights Maintenance",
+      "Piped Water Tap Connections",
+      "Local Village Drain Desilting",
+      "Weekly Haat Solid Waste Disposal",
+      "Kachha Road Gravel Patching",
+      "Community Toilet Cleaning"
+    ],
+    "availableResources": [
+      "2 Panchayat Tractors with Trolleys",
+      "1 Handpump Repair Tool Unit",
+      "4 Electrician/Plumber Technicians",
+      "Panchayat Bhawan Meeting Hall with High-speed Internet",
+      "Emergency Civic Contingency Fund ₹1.5L"
+    ],
+    "contact": {
+      "mukhiyaName": "Smt. Shanti Devi",
+      "phone": "+91 94311 82910",
+      "email": "mukhiya.ormanjhi@jharkhand.gov.in"
+    },
+    "resolvedCount": 38,
+    "activeCount": 5,
+    "escalatedCount": 4
+  },
+  {
+    "id": "PAN-JH-002",
+    "panchayatName": "Kanke Central Panchayat",
+    "village": "Kanke",
+    "mandal": "Kanke",
+    "district": "Ranchi",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Street light bulb replacement",
+      "Dhanbad-Ranchi feeder road shoulder clearance",
+      "Borewell motor repairs",
+      "Waste bin placement at market",
+      "Drain blockage removal"
+    ],
+    "availableResources": [
+      "Mini JCB backhoe on hire",
+      "Waste collection tipper e-rickshaws (3 units)",
+      "Dedicated sanitary crew (8 workers)",
+      "Panchayat contingency fund ₹2.2L"
+    ],
+    "contact": {
+      "mukhiyaName": "Shri Arvind Mahato",
+      "phone": "+91 94313 74829",
+      "email": "kanke.panchayat@jharkhand.gov.in"
+    },
+    "resolvedCount": 45,
+    "activeCount": 6,
+    "escalatedCount": 5
+  },
+  {
+    "id": "PAN-JH-003",
+    "panchayatName": "Ratu Gram Panchayat",
+    "village": "Ratu Chatti",
+    "mandal": "Ratu",
+    "district": "Ranchi",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Handpump washer & riser pipe replacement",
+      "Primary school playground leveling",
+      "LED streetlight network inspection",
+      "Sanitation spraying for vector control"
+    ],
+    "availableResources": [
+      "Water tanker (3,000L capacity)",
+      "2 Handpump mechanic kits",
+      "Panchayat emergency fund ₹1.2L"
+    ],
+    "contact": {
+      "mukhiyaName": "Shri Dilip Oraon",
+      "phone": "+91 98351 44211",
+      "email": "ratu.mukhiya@jharkhand.gov.in"
+    },
+    "resolvedCount": 29,
+    "activeCount": 4,
+    "escalatedCount": 3
+  },
+  {
+    "id": "PAN-JH-004",
+    "panchayatName": "Namkum Rural Panchayat",
+    "village": "Namkum",
+    "mandal": "Namkum",
+    "district": "Ranchi",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Industrial perimeter road sweeping",
+      "Drain cleaning before monsoon",
+      "Community solar lighting",
+      "Overhead water tank chlorination"
+    ],
+    "availableResources": [
+      "Chlorination dosing kit",
+      "Tractor trolley waste carrier",
+      "Civic fund ₹1.8L"
+    ],
+    "contact": {
+      "mukhiyaName": "Smt. Manju Tirkey",
+      "phone": "+91 94701 55620",
+      "email": "namkum.gp@jharkhand.gov.in"
+    },
+    "resolvedCount": 34,
+    "activeCount": 7,
+    "escalatedCount": 6
+  },
+  {
+    "id": "PAN-JH-005",
+    "panchayatName": "Mandu Gram Panchayat",
+    "village": "Mandu",
+    "mandal": "Mandu",
+    "district": "Ramgarh",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Coal haul road crossing dust suppression",
+      "Village well desiltation",
+      "Street lighting on NH feeder",
+      "Weekly market waste cleanup"
+    ],
+    "availableResources": [
+      "Water sprinkler tanker",
+      "Portable dewatering diesel pump",
+      "Panchayat fund ₹1.4L"
+    ],
+    "contact": {
+      "mukhiyaName": "Shri Baleshwar Prasad",
+      "phone": "+91 94317 62819",
+      "email": "mandu.ramgarh@jharkhand.gov.in"
+    },
+    "resolvedCount": 27,
+    "activeCount": 5,
+    "escalatedCount": 4
+  },
+  {
+    "id": "PAN-JH-006",
+    "panchayatName": "Patratu Lake Panchayat",
+    "village": "Patratu",
+    "mandal": "Patratu",
+    "district": "Ramgarh",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Tourism corridor solid waste clearance",
+      "Lakeside drainage unclogging",
+      "Solar high-mast light maintenance"
+    ],
+    "availableResources": [
+      "Boat-mounted debris skimmer tool",
+      "2 Solid waste collection vans",
+      "Civic fund ₹2.5L"
+    ],
+    "contact": {
+      "mukhiyaName": "Smt. Sunita Soren",
+      "phone": "+91 94301 99281",
+      "email": "patratu.gp@jharkhand.gov.in"
+    },
+    "resolvedCount": 41,
+    "activeCount": 4,
+    "escalatedCount": 2
+  },
+  {
+    "id": "PAN-JH-007",
+    "panchayatName": "Chandankiyari South Panchayat",
+    "village": "Chandankiyari",
+    "mandal": "Chandankiyari",
+    "district": "Bokaro",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Piped water supply valve adjustment",
+      "Bazaar garbage collection",
+      "Village approach road pothole filling",
+      "Street light pole wiring repairs"
+    ],
+    "availableResources": [
+      "Cold-mix asphalt patch stock (2 tons)",
+      "Panchayat tractor and hydraulic trailer",
+      "Civic fund ₹1.6L"
+    ],
+    "contact": {
+      "mukhiyaName": "Shri Amar Kumar Bauri",
+      "phone": "+91 94319 88301",
+      "email": "chandankiyari.gp@jharkhand.gov.in"
+    },
+    "resolvedCount": 31,
+    "activeCount": 6,
+    "escalatedCount": 5
+  },
+  {
+    "id": "PAN-JH-008",
+    "panchayatName": "Chas Gram Panchayat",
+    "village": "Kura",
+    "mandal": "Chas",
+    "district": "Bokaro",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Suburban road verge clearance",
+      "Community compost pit management",
+      "Drinking water pipeline leak mending"
+    ],
+    "availableResources": [
+      "Plumbing pipe welding set",
+      "E-rickshaw waste carriers (4)",
+      "Contingency fund ₹2.0L"
+    ],
+    "contact": {
+      "mukhiyaName": "Smt. Rekha Kumari",
+      "phone": "+91 94303 71822",
+      "email": "chas.kura@jharkhand.gov.in"
+    },
+    "resolvedCount": 36,
+    "activeCount": 3,
+    "escalatedCount": 3
+  },
+  {
+    "id": "PAN-JH-009",
+    "panchayatName": "Govindpur Gram Panchayat",
+    "village": "Govindpur",
+    "mandal": "Govindpur",
+    "district": "Dhanbad",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "GT Road underpass stormwater pump out",
+      "Market drain concrete slab replacement",
+      "Streetlight fixture repair",
+      "Slag dust clearance"
+    ],
+    "availableResources": [
+      "Sludge pump 5HP diesel",
+      "Concrete repair equipment",
+      "Panchayat emergency fund ₹1.7L"
+    ],
+    "contact": {
+      "mukhiyaName": "Shri Manoj Mandal",
+      "phone": "+91 94315 22910",
+      "email": "govindpur.gp@jharkhand.gov.in"
+    },
+    "resolvedCount": 33,
+    "activeCount": 5,
+    "escalatedCount": 4
+  },
+  {
+    "id": "PAN-JH-010",
+    "panchayatName": "Topchanchi Gram Panchayat",
+    "village": "Topchanchi",
+    "mandal": "Topchanchi",
+    "district": "Dhanbad",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Lake catchment perimeter sanitation",
+      "Drinking water intake pump servicing",
+      "Rural pathway gravel surfacing"
+    ],
+    "availableResources": [
+      "Panchayat power tiller with leveller",
+      "Chlorination dosing kit",
+      "Contingency fund ₹1.3L"
+    ],
+    "contact": {
+      "mukhiyaName": "Shri Gopal Pandey",
+      "phone": "+91 94308 11983",
+      "email": "topchanchi.gp@jharkhand.gov.in"
+    },
+    "resolvedCount": 26,
+    "activeCount": 4,
+    "escalatedCount": 3
+  },
+  {
+    "id": "PAN-JH-011",
+    "panchayatName": "Potka Tribal Gram Panchayat",
+    "village": "Potka",
+    "mandal": "Potka",
+    "district": "East Singhbhum",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Solar handpump mini-water tank cleaning",
+      "Village school pathway drainage",
+      "Biomass compost management",
+      "LED lighting repair"
+    ],
+    "availableResources": [
+      "Tractor trailer unit",
+      "Community solar technician kit",
+      "Civic fund ₹1.4L"
+    ],
+    "contact": {
+      "mukhiyaName": "Smt. Sukhi Murmu",
+      "phone": "+91 94709 44321",
+      "email": "potka.gp@jharkhand.gov.in"
+    },
+    "resolvedCount": 28,
+    "activeCount": 5,
+    "escalatedCount": 4
+  },
+  {
+    "id": "PAN-JH-012",
+    "panchayatName": "Ghatshila Rural Panchayat",
+    "village": "Dahiigora",
+    "mandal": "Ghatshila",
+    "district": "East Singhbhum",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Subarnarekha riverfront cleanliness",
+      "Village culvert clearing",
+      "Handpump servicing",
+      "Night market illumination"
+    ],
+    "availableResources": [
+      "Sewer rod clearing sets",
+      "Water test colorimeter kit",
+      "Panchayat fund ₹1.9L"
+    ],
+    "contact": {
+      "mukhiyaName": "Shri Pradeep Hembrom",
+      "phone": "+91 94311 00923",
+      "email": "ghatshila.gp@jharkhand.gov.in"
+    },
+    "resolvedCount": 35,
+    "activeCount": 6,
+    "escalatedCount": 5
+  },
+  {
+    "id": "PAN-JH-013",
+    "panchayatName": "Barhi Gram Panchayat",
+    "village": "Barhi",
+    "mandal": "Barhi",
+    "district": "Hazaribagh",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Highway junction streetlight repair",
+      "Overhead cistern pipeline leak fix",
+      "Drain cleaning behind grain mandi"
+    ],
+    "availableResources": [
+      "Panchayat mini truck",
+      "Electric submersible spare pump",
+      "Fund ₹1.7L"
+    ],
+    "contact": {
+      "mukhiyaName": "Shri Rajendra Yadav",
+      "phone": "+91 94313 11849",
+      "email": "barhi.gp@jharkhand.gov.in"
+    },
+    "resolvedCount": 39,
+    "activeCount": 4,
+    "escalatedCount": 3
+  },
+  {
+    "id": "PAN-JH-014",
+    "panchayatName": "Katkamsandi Gram Panchayat",
+    "village": "Katkamsandi",
+    "mandal": "Katkamsandi",
+    "district": "Hazaribagh",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Rural forest road tree trimming",
+      "Open well fencing & safety net placement",
+      "Handpump platform cement grouting"
+    ],
+    "availableResources": [
+      "Masonry repair team (3)",
+      "Handpump mechanic set",
+      "Fund ₹1.1L"
+    ],
+    "contact": {
+      "mukhiyaName": "Smt. Savita Devi",
+      "phone": "+91 98357 88219",
+      "email": "katkamsandi.gp@jharkhand.gov.in"
+    },
+    "resolvedCount": 24,
+    "activeCount": 5,
+    "escalatedCount": 2
+  },
+  {
+    "id": "PAN-JH-015",
+    "panchayatName": "Daltonganj Rural Gram Panchayat",
+    "village": "Chainpur",
+    "mandal": "Chainpur",
+    "district": "Palamu",
+    "state": "Jharkhand",
+    "servicesHandled": [
+      "Drought-relief water tanker distribution",
+      "Borewell repair & yield testing",
+      "Main bazaar sanitation",
+      "Solar street lights repair"
+    ],
+    "availableResources": [
+      "2 Water tankers (5,000L)",
+      "Borewell sounding tape unit",
+      "Panchayat contingency fund ₹2.4L"
+    ],
+    "contact": {
+      "mukhiyaName": "Shri Ramakant Shukla",
+      "phone": "+91 94301 66299",
+      "email": "chainpur.palamu@jharkhand.gov.in"
+    },
+    "resolvedCount": 32,
+    "activeCount": 7,
+    "escalatedCount": 6
+  }
+]

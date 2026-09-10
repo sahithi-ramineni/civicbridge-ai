@@ -1,0 +1,228 @@
+[
+  {
+    "id": "IND-JH-001",
+    "name": "Tata Steel Rural Development Society (TSRDS)",
+    "industryType": "Heavy Engineering & CSR Foundation",
+    "expertise": [
+      "Rural Water Supply Systems & Nanofiltration",
+      "Steel Modular Culverts & Bridges",
+      "Vocational Fabrication & Assembly",
+      "Community Health Infrastructure"
+    ],
+    "availableInfrastructure": [
+      "Jamshedpur Heavy Fabrication Yard",
+      "Water Testing Quality Control Lab",
+      "Rapid Prototyping Workshop",
+      "Mobile Rural Engineering Vans"
+    ],
+    "supportTypes": [
+      "Prototype Development",
+      "Technology Support",
+      "Infrastructure",
+      "Mentoring",
+      "Funding",
+      "Manufacturing",
+      "Deployment Support"
+    ],
+    "fundingCapacity": "Up to ₹50,00,000 per flagship civic project",
+    "prototypeCapabilities": [
+      "Solar Water Filtration Pods",
+      "Prefabricated Steel Culverts for Flash Floods",
+      "Mobile Water Desalination & Iron Stripping Units"
+    ],
+    "contactPerson": "Er. Vikram Sengupta (Head, Rural Tech Incubation)",
+    "contactEmail": "vikram.sengupta@tatasteel.com",
+    "activeCollaborationsCount": 4,
+    "totalContributionInr": 4850000
+  },
+  {
+    "id": "IND-JH-002",
+    "name": "JSW Foundation — CleanTech Division",
+    "industryType": "Clean Energy & Rural Infrastructure",
+    "expertise": [
+      "Solar Powered Water Pumping & Treatment",
+      "Slag Aggregate Green Pavements",
+      "Decentralized Bio-methanation"
+    ],
+    "availableInfrastructure": [
+      "Polymer & Slag Testing Facility",
+      "Industrial Pilot Assembly Hall",
+      "CAD/CAM Structural Simulation Center"
+    ],
+    "supportTypes": [
+      "Prototype Development",
+      "Technology Support",
+      "Infrastructure",
+      "Testing",
+      "Funding"
+    ],
+    "fundingCapacity": "Up to ₹35,00,000 per project",
+    "prototypeCapabilities": [
+      "IoT Micro-Piped Water Kiosks",
+      "Recycled Slag Interlocking Road Pavers",
+      "Community Compost Shredders"
+    ],
+    "contactPerson": "Ms. Ananya Roy (CSR Tech Lead)",
+    "contactEmail": "ananya.roy@jsw.in",
+    "activeCollaborationsCount": 3,
+    "totalContributionInr": 3100000
+  },
+  {
+    "id": "IND-JH-003",
+    "name": "EcoTech Sustainable Waste Ltd",
+    "industryType": "Environmental Technology & Waste Management",
+    "expertise": [
+      "Decentralized Solid Waste Pyrolysis",
+      "Plastics-to-Tiles Automated Moulding",
+      "Organic Waste Accelerated Digestion"
+    ],
+    "availableInfrastructure": [
+      "Waste Shredder & Extrusion Line",
+      "Plastic Pyrolysis Pilot Reactor",
+      "Material Tensile & Compression Testing Lab"
+    ],
+    "supportTypes": [
+      "Prototype Development",
+      "Manufacturing",
+      "Testing",
+      "Mentoring",
+      "Deployment Support"
+    ],
+    "fundingCapacity": "Up to ₹20,00,000 per project",
+    "prototypeCapabilities": [
+      "Mini Municipal Waste Pelleting Unit",
+      "Heavy-duty Plastic Extruder for Drainage Pipes",
+      "Smart Fill-level Solar Trash Compactors"
+    ],
+    "contactPerson": "Mr. Rajiv Nambiar (Chief Technology Officer)",
+    "contactEmail": "rajiv@ecotechwaste.in",
+    "activeCollaborationsCount": 3,
+    "totalContributionInr": 2400000
+  },
+  {
+    "id": "IND-JH-004",
+    "name": "Jal Jeevan Innovations Pvt Ltd",
+    "industryType": "Water Tech & IoT Hardware",
+    "expertise": [
+      "Affordable Arsenic & Fluoride Chemical Removal",
+      "Solar Powered Gravity Filters",
+      "Cellular IoT Flow & Quality Telemetry"
+    ],
+    "availableInfrastructure": [
+      "Electronics Surface Mount Technology (SMT) Assembly",
+      "Hydraulic Pressure Testing Chamber",
+      "Spectrophotometer Calibration Rig"
+    ],
+    "supportTypes": [
+      "Prototype Development",
+      "Technology Support",
+      "Testing",
+      "Deployment Support",
+      "Mentoring"
+    ],
+    "fundingCapacity": "Up to ₹25,00,000 per project",
+    "prototypeCapabilities": [
+      "IoT Chlorine Dosing Dispenser",
+      "Solar Reverse Osmosis Community Cart",
+      "Handpump Continuous Fluoride Sensor Node"
+    ],
+    "contactPerson": "Dr. Sameer Bannerjee (R&D Director)",
+    "contactEmail": "sameer@jaljeevaninnovations.com",
+    "activeCollaborationsCount": 5,
+    "totalContributionInr": 3650000
+  },
+  {
+    "id": "IND-JH-005",
+    "name": "Jharkhand Rural Infrastructure Corp (JRIC)",
+    "industryType": "Civil Contracting & Highway Engineering",
+    "expertise": [
+      "Rural Road Soil Stabilization with Geogrids",
+      "Precast Concrete Modular Culverts",
+      "Flash Flood Inundation Defenses"
+    ],
+    "availableInfrastructure": [
+      "Heavy Plant Machinery & Paver Fleet",
+      "Precast Concrete Casting Yard (Ranchi Bypass)",
+      "Soil Mechanics Field Testing Laboratory"
+    ],
+    "supportTypes": [
+      "Infrastructure",
+      "Manufacturing",
+      "Testing",
+      "Deployment Support",
+      "Funding"
+    ],
+    "fundingCapacity": "Up to ₹40,00,000 per project",
+    "prototypeCapabilities": [
+      "Rapid Deployable Folding Bridge Kit",
+      "Permeable Concrete Stormwater Gutters",
+      "Reinforced Geocell Pothole Repair System"
+    ],
+    "contactPerson": "Er. D. K. Sinha (Chief Project Engineer)",
+    "contactEmail": "dksinha@jric.org.in",
+    "activeCollaborationsCount": 4,
+    "totalContributionInr": 4200000
+  },
+  {
+    "id": "IND-JH-006",
+    "name": "Adani Foundation — Rural Tech Hub",
+    "industryType": "CSR & Renewable Micro-Infrastructure",
+    "expertise": [
+      "Solar Street Lighting with Remote Mesh Health",
+      "Micro-watershed Check Dam Civil Engineering",
+      "Community Waste Segregation Centers"
+    ],
+    "availableInfrastructure": [
+      "Solar Battery Testing Facility",
+      "3D Printing & Metal Lathe Workshop",
+      "Community Outreach Centers across Godda & Ranchi"
+    ],
+    "supportTypes": [
+      "Funding",
+      "Mentoring",
+      "Prototype Development",
+      "Deployment Support"
+    ],
+    "fundingCapacity": "Up to ₹30,00,000 per project",
+    "prototypeCapabilities": [
+      "LoRaWAN Mesh Street Light Controller",
+      "Modular Check Dam Infiltration Filter",
+      "Mobile E-Waste Collection Locker"
+    ],
+    "contactPerson": "Ms. Priya Pathak (Lead, Rural Innovation)",
+    "contactEmail": "priya.pathak@adani.com",
+    "activeCollaborationsCount": 2,
+    "totalContributionInr": 1950000
+  },
+  {
+    "id": "IND-JH-007",
+    "name": "TechMahindra Foundation — Digital India Lab",
+    "industryType": "Information Technology & Sensor Telemetry",
+    "expertise": [
+      "Civic Sensor Dashboards & GIS Cloud Platforms",
+      "Computer Vision for Pothole & Road Distress",
+      "AI Edge Computing for Garbage Overflow"
+    ],
+    "availableInfrastructure": [
+      "Cloud GPU Compute Cluster",
+      "Edge IoT Device Prototyping Bench",
+      "AI Quality Assurance Testbeds"
+    ],
+    "supportTypes": [
+      "Technology Support",
+      "Mentoring",
+      "Funding",
+      "Prototype Development"
+    ],
+    "fundingCapacity": "Up to ₹25,00,000 per project",
+    "prototypeCapabilities": [
+      "Edge AI Camera for Municipal Garbage Overflow Alerts",
+      "Smartphone Pothole Vibration Mapping App",
+      "Water Tank Ultrasonic Wireless Level Sender"
+    ],
+    "contactPerson": "Mr. Amitav Ghosh (Principal AI Architect)",
+    "contactEmail": "amitav.ghosh@techmahindra.com",
+    "activeCollaborationsCount": 3,
+    "totalContributionInr": 2800000
+  }
+]
